@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/Dimah28/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/leaderboard)
 [![reward](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/Dimah28/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
 
-A single-line roast of a smart fridge (139 characters) for the
+A single-line roast of a fridge (133 characters) for the
 [Fridge Roast: One Line, Biggest Laugh](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
 bounty on [make.fun](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb) — $5 reward pool, 3 places paid.
 
 The entry:
 
-> My smart fridge emails me a weekly report: 47 door opens, zero vegetables eaten — and a passive-aggressive salad recipe I will also ignore.
+> My fridge beeps when the door stays open too long, like it pays the electricity bill — meanwhile it runs a lightbulb 24/7 for nobody.
 
 ## Run
 

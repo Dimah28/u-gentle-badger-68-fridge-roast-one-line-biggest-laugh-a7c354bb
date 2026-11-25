@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
-"""Fridge Roast: One Line, Biggest Laugh — make.fun entry.
+"""Fridge Roast: One Line, Biggest Laugh — make.fun entry (revised).
 
 Writes a single-line roast entry to $MAKEFUN_OUTPUT_DIR/entry.txt.
 Python 3.13, stdlib only, deterministic, no network.
+
+Revised entry (133 characters, one mechanism: the fridge polices
+door-open waste while wasting power itself, twist in the last words).
 """
 
 import os
 import sys
 
 ENTRY = (
-    "My smart fridge emails me a weekly report: 47 door opens, "
-    "zero vegetables eaten \u2014 and a passive-aggressive salad "
-    "recipe I will also ignore."
+    "My fridge beeps when the door stays open too long, like it pays "
+    "the electricity bill \u2014 meanwhile it runs a lightbulb 24/7 for nobody."
 )
 
 MAX_ENTRY_LEN = 200
